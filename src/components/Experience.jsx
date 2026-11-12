@@ -1,0 +1,2 @@
+import { FiArrowUpRight } from 'react-icons/fi';
+export default function Experience() { return <section className="experience-section"><div className="experience-bg"/><div className="experience-overlay"/><div className="container experience-content reveal"><p className="eyebrow light-eyebrow">YOUR TABLE IS WAITING</p><h2>Good food. Great company.<br/><em>Beautiful memories.</em></h2><a className="btn-gold" href="#reserve">Make it a moment <FiArrowUpRight/></a></div></section>; }
